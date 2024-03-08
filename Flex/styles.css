@@ -1,0 +1,32 @@
+*{
+    /* border: solid 2px; */
+    box-sizing: border-box;
+}
+.container, nav{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    align-content: center;
+    position: relative;
+}
+img{
+    border-radius: 100px;
+    width:40px;
+    height: 40px;
+}
+.nav, ul, li{
+    display:inline;
+    display: flex;
+    margin-left: 50%;
+    
+}
+.search-bar{
+    left: 99%;
+
+    
+}
+.search-bar img{
+    /* float: left; */
+    width: 15%;
+    height: 15%;
+}
