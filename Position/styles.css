@@ -1,0 +1,26 @@
+.container,.box{
+    margin: 15px;
+    border: solid 2px gray;
+    /* position: relative; */
+
+}
+.box{
+    width: 5rem;
+    height: 5rem;
+
+}
+.box-one{
+    background-color: blue;
+    position: relative;
+    left: 5rem;
+    /* right: -5rem; */
+
+}
+.box-two{
+    background-color:red;
+
+}
+.box-three{
+    background-color: green;
+
+}
